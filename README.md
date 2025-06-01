@@ -7,5 +7,5 @@ This repository contains the sample code, which can be used to test the small or
 
 
 <br>
-# Cite as 
+# Cite as #
 Arafat, Syed Yasser, and Muhammad Javed Iqbal. "Urdu-text detection and recognition in natural scene images using deep learning." IEEE Access 8 (2020): 96787-96803.
