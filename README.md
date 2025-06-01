@@ -11,9 +11,8 @@ and
 
 
 
-
+# Cite as
 <br>
-## cite as
 <br>
 
  Syed Yasser Arafat, and Muhammad Javed Iqbal. "Urdu-text detection and recognition in natural scene images using deep learning." IEEE Access 8 (2020): 96787-96803.
